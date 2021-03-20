@@ -2,6 +2,7 @@ package program;
 
 import Clase.Parlament;
 import Clase.ParlamentLazy;
+import Clase.ApartamentLazy;
 
 public class Main {
 	
@@ -23,7 +24,14 @@ public static void main(String[] args) {
 		
 		System.out.println(parlamentLazy1);
 		System.out.println(parlamentLazy2);
+		
+		
+		ApartamentLazy apartamentLazy1=ApartamentLazy.getInstance("Popescu Andrei",2, 80.9f);
+		ApartamentLazy apartamentLazy2=ApartamentLazy.getInstance("Predescu Alina",3,90.7f);
+		
+		System.out.println(apartamentLazy1);
+		System.out.println(apartamentLazy2);
 
+	}
+}
 
-}
-}

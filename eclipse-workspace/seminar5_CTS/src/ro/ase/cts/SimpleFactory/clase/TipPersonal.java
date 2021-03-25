@@ -1,5 +1,8 @@
 package ro.ase.cts.SimpleFactory.clase;
 
-public class TipPersonal {
+public enum TipPersonal {
+	MEDIC,
+	ASISTENT,
+	BRANCARDIER
 
 }

@@ -17,5 +17,7 @@ public class Asistent extends PersonalSpital{
 		builder.append(getNume());
 		builder.append("]");
 		return builder.toString();
+		
+		
 	}
 }

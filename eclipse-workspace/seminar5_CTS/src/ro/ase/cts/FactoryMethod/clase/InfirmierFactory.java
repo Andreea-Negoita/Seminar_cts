@@ -6,4 +6,5 @@ public class InfirmierFactory  implements FactoryPersonal {
 	public PersonalSpital getPersonal(String nume) {
 		return new Brancardier(nume);
 	}
+	
 }

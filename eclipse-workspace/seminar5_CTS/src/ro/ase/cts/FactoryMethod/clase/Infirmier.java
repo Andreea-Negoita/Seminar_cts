@@ -7,6 +7,7 @@ public class Infirmier extends PersonalSpital{
 
 	}
 
+	
 	@Override
 	public String toString() {
 		StringBuilder builder = new StringBuilder();

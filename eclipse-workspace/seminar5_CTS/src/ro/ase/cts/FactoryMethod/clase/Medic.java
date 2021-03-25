@@ -19,5 +19,6 @@ public class Medic extends PersonalSpital {
 		builder.append("]");
 		return builder.toString();
 		
+		
 	}
 }

@@ -13,5 +13,6 @@ public class Main {
 		printeazaPersonalSpital(new AsistentFactory(),"Maria");
 		printeazaPersonalSpital(new InfirmierFactory(),"Ioana");
 		
+		
     }
 }

@@ -7,7 +7,6 @@ public class Brancardier extends PersonalSpital {
 
 	}
 
-	
 	@Override
 	public String toString() {
 		StringBuilder builder = new StringBuilder();

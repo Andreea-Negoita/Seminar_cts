@@ -25,4 +25,5 @@ public abstract class PersonalSpital {
 		return "PersonalSpital [nume=" + nume + "]";
 	}
 
+	
 }

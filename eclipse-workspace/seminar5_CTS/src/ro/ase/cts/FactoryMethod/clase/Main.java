@@ -12,8 +12,6 @@ public class Main {
 		printeazaPersonalSpital(new MedicFactory(),"Ion");
 		printeazaPersonalSpital(new AsistentFactory(),"Maria");
 		printeazaPersonalSpital(new InfirmierFactory(),"Ioana");
-
-
-	}
-
+		
+    }
 }

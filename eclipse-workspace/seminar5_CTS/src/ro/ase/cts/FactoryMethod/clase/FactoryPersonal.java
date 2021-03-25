@@ -4,7 +4,5 @@ public interface FactoryPersonal {
 
 	public PersonalSpital getPersonal(String nume);
 	
-	
-
-}
+	}
 

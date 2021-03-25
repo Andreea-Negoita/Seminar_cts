@@ -17,5 +17,4 @@ public class Infirmier extends PersonalSpital{
 		builder.append("]");
 		return builder.toString();
 	}
-
 }

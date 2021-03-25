@@ -18,5 +18,6 @@ public class Medic extends PersonalSpital {
 		builder.append(getNume());
 		builder.append("]");
 		return builder.toString();
+		
 	}
 }

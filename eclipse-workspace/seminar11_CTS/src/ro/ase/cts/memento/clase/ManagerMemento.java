@@ -4,6 +4,9 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class ManagerMemento {
+	
+	
+	
 
 	private List<Memento> mementoList;
 	
@@ -18,7 +21,7 @@ public class ManagerMemento {
 		mementoList.add(memento);
 	}
 	
-	//putem primul, ultimul sau pozitia
+	
 	public Memento getMemento(int pos) {
 		if(pos>=0 && pos<mementoList.size())
 			return mementoList.get(pos);

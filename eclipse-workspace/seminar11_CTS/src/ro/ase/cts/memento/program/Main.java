@@ -8,6 +8,7 @@ public class Main {
 	public static void main(String[] args) {
 		
 		
+		
 		MeciJucat meciJucat=new MeciJucat("Gazda1", "Oaspeti", 12, 12, 12, 12);
 		
 		ManagerMemento managerMemento=new ManagerMemento();

@@ -2,7 +2,6 @@ package ro.ase.cts.memento.clase;
 
 public class MeciJucat {
 
-	
 	private String numeGazda;
 	private String numeOaspeti;
 	private int nrSpectatori;

@@ -25,12 +25,14 @@ public class Memento {
 	public void setNumeOaspeti(String numeOaspeti) {
 		this.numeOaspeti = numeOaspeti;
 	}
+	
 	public int getNrSpectatori() {
 		return nrSpectatori;
 	}
 	public void setNrSpectatori(int nrSpectatori) {
 		this.nrSpectatori = nrSpectatori;
 	}
+	
 	
 	
 }

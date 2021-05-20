@@ -7,7 +7,6 @@ import java.util.List;
 public class Student {
     private String nume;
     private List<Integer> note;
-
     public Student(String nume) {
         this.nume = nume;
         this.note = new ArrayList<>();

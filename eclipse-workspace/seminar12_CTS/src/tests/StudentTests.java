@@ -41,8 +41,8 @@ public class StudentTests {
 		int nota=8;
 		student.adaugaNota(nota);
 		assertEquals(nota, student.getNota(0));
-		
-	}
+		}
+	
 	
 	@Test
 	public void testDimensiuneLista() {
@@ -52,8 +52,8 @@ public class StudentTests {
 		student.adaugaNota(nota);
 		assertEquals(1, student.getNote().size());
 		
-		
-	}
+		}
+	
 	
 	
 	
